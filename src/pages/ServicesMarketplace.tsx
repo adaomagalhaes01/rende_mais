@@ -5,10 +5,10 @@ import { motion } from "framer-motion"
 
 const allProviders = [
   { id: 1, name: "Ana Maria", category: "Eletricidade", rating: 4.9, reviews: 124, price: "5.000 Kz/h", distance: "2.5 km", verified: true, available: true, time: "30 min", image: "/p1.jpg" },
-  { id: 2, name: "Joana Joana", category: "Limpeza", rating: 4.8, reviews: 89, price: "3.500 Kz/h", distance: "1.2 km", verified: true, available: true, time: "15 min", image: "/p2.jpg" },
-  { id: 3, name: "Carlos Mendes", category: "Canalização", rating: 5.0, reviews: 201, price: "8.000 Kz/h", distance: "5.0 km", verified: true, available: false, time: "Amanhã", image: "/p3.jpg" },
+  { id: 2, name: "Gracieth De Fatima", category: "Limpeza", rating: 4.8, reviews: 89, price: "3.500 Kz/h", distance: "1.2 km", verified: true, available: true, time: "15 min", image: "/pp2.jpeg" },
+  { id: 3, name: "Adriano Manuel", category: "Canalização", rating: 5.0, reviews: 201, price: "8.000 Kz/h", distance: "5.0 km", verified: true, available: false, time: "Amanhã", image: "/p3.jpg" },
   { id: 4, name: "Patricio Ngola", category: "Estética", rating: 4.7, reviews: 56, price: "15.000 Kz", distance: "3.1 km", verified: false, available: true, time: "45 min", image: "/p4.jpg" },
-  { id: 5, name: "Pedro Buela", category: "Informática", rating: 4.8, reviews: 77, price: "6.000 Kz/h", distance: "0.8 km", verified: true, available: true, time: "20 min", image: "/p5.jpg" },
+  { id: 5, name: "Herodis Buela", category: "Informática", rating: 4.8, reviews: 77, price: "6.000 Kz/h", distance: "0.8 km", verified: true, available: true, time: "20 min", image: "/p5.jpg" },
   { id: 6, name: "Mariano Ngunzu", category: "Explicações", rating: 4.9, reviews: 145, price: "4.000 Kz/h", distance: "2.0 km", verified: true, available: true, time: "25 min", image: "/p6.jpg" },
   { id: 7, name: "Nicolau Jonas", category: "Construção", rating: 4.6, reviews: 38, price: "10.000 Kz/h", distance: "6.5 km", verified: true, available: false, time: "Amanhã", image: "/p7.jpg" },
   { id: 8, name: "Teresa Neto", category: "Limpeza", rating: 4.8, reviews: 103, price: "4.000 Kz/h", distance: "1.8 km", verified: true, available: true, time: "10 min", image: "/p1.jpg" },
